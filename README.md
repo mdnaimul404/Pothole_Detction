@@ -78,3 +78,10 @@ To run the Pothole Detection model locally:
 * For production environments, consider optimizing the model and integrating it into a real-time system for pothole detection.
 
 ---
+
+## 📜 License
+
+This project is developed for educational purposes as part of a Computer Graphics course.
+You are free to view and learn from the source code.
+
+---

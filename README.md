@@ -15,9 +15,7 @@ This repository focuses on developing a deep learning model to automate the dete
 
 ## 📁 Project Structure
 
-The repository contains the following key files:
-
-* **README.md**: Provides an overview and documentation for the project.
+* **pothole_detction.ipynb**: Jupyter Notebook containing the code for data preprocessing, model training, and evaluation.
 * **DataSet_Link**: https://www.kaggle.com/code/farzadnekouei/pothole-segmentation-for-road-damage-assessment
 
 
